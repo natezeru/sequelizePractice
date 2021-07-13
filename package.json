@@ -1,0 +1,27 @@
+{
+  "name": "sequelizepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sequelize_index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natezeru/sequelizePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natezeru/sequelizePractice/issues"
+  },
+  "homepage": "https://github.com/natezeru/sequelizePractice#readme",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "save": "^2.4.0",
+    "sequelize": "^6.6.5",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2",
+    "start": "^5.1.0"
+  }
+}
